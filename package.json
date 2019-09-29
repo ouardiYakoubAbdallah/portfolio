@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "A fully responsive portfolio website using modern technologies such as... HTML5, CSS3 - Transitions/Grid/Flex, Sass, NPM Package Manager, JavaScript... ",
+  "main": "index.js",
+  "scripts": {
+    "sass": "echo \"Watching...\" && node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouardiYakoubAbdallah/portfolio.git"
+  },
+  "author": "\"Yakoub OUARDI\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ouardiYakoubAbdallah/portfolio/issues"
+  },
+  "homepage": "https://github.com/ouardiYakoubAbdallah/portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
