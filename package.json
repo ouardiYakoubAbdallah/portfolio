@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ouardiYakoubAbdallah/portfolio#readme",
   "dependencies": {
     "node-sass": "^4.12.0"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2"
   }
 }
