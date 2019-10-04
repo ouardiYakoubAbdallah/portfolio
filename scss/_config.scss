@@ -4,6 +4,10 @@ $show-home-image: true;
 $home-image: url('../img/bg.jpg');
 $background-opacity: 0.8;
 
+@mixin easeOut {
+  transition: all 0.5s ease;
+}
+
 @mixin background {
   @if ($show-home-image) {
     &#bg-img {
